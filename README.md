@@ -13,8 +13,6 @@ We have also used a Diode with each Switch , So that we can prevent Ghosting. Th
 I have tried to make the PCB design as compact as I could <br>
 
 
-<br>
-
 Lastly I made the Firmware for the PCB which I wrote completely in C language .
 
 ### Features
