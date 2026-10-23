@@ -12,7 +12,7 @@ We have also used a Diode with each Switch , So that we can prevent Ghosting. Th
 <br>
 I have tried to make the PCB design as compact as I could <br>
 
-Then Comes the CAD . Which was Done in fusion . I Tracked the boundary of the PCB with come relief space then marked the Connection hole on the PCB as well . After which I designed the Bottom Case onto which the PCB Rests and Then I made a 3X3 Center case to hold the Switches and a Top case to add the finish and at the end I made hole for the USB-C connection and made the Base case in a angle so that It sits on a angle on the table.
+
 <br>
 
 Lastly I made the Firmware for the PCB which I wrote completely in C language .
