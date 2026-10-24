@@ -1,13 +1,12 @@
 #pragma once
 #define I2C_DRIVER I2CD1
-#define OLED_DISPLAY_128X32
 #define MATRIX_ROWS 2
 #define MATRIX_COLS 4
 #define MATRIX_ROW_PINS { GP28, GP29,  }
 #define MATRIX_COL_PINS { GP3, GP4, GP2,GP1 }
 #define DIODE_DIRECTION COL2ROW
-#define ENCODERS_PAD_A { GP3 }
-#define ENCODERS_PAD_B { GP4 }
+#define ENCODERS_PAD_A { GP26 }
+#define ENCODERS_PAD_B { GP27 }
 #define ENCODER_RESOLUTION 4
-#define RGB_DI_PIN GP5
-#define RGBLED_NUM 8
+#define RGB_DI_PIN GP4
+#define RGBLED_NUM 0
